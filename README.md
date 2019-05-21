@@ -1,4 +1,4 @@
-![fugue](img/fugueHeader.png)
+![fugue state](/img/fugueHeader.png)
 
 # Fugue State
 
