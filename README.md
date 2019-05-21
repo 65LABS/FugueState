@@ -11,6 +11,6 @@ Fugue State for E-Bow and Guitar by 65daysofstatic was a 2014 noise installation
 
 to-do
 
-###Usage:
+### Usage:
 
-to-do
+- what midi notes do what etc.
